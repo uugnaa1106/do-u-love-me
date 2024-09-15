@@ -5,7 +5,7 @@ const gif = document.querySelector(".gif");
 
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "My heart is forever yours ❤";
+  question.innerHTML = "My heart is forever yours ❤  247d udriin mend hurgey huurhunuu.";
   gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpseTNvNmI0N3lqZmNybTB4eTFkbmcxdnJoNjN5MXBjcmNkbzd5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D3Y3z4zRIRyL4B6bJd/giphy.gif";
 });
 
